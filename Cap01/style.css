@@ -1,0 +1,15 @@
+/* 
+- CSS significa Cascading Style Sheets
+- CSS descreve como os elementos HTML devem ser exibidos na tela, papel ou em outras mídias
+- O CSS economiza muito trabalho. Pode controlar o layout de várias páginas da web de uma só vez
+- As folhas de estilo externas são armazenadas nos arquivos CSS
+
+*/ 
+
+body{
+    background-color: #000000;
+    color: #f6f6f6;
+}
+strong{
+    color: #0ff
+}
